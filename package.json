@@ -1,6 +1,7 @@
 {
   "name": "scrutina",
   "version": "1.0.0",
+  "homepage": "https://github.io",
   "private": true,
   "dependencies": {
     "firebase": "^12.15.0",
